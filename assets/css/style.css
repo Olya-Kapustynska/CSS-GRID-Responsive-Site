@@ -47,7 +47,7 @@ header a {
     
 }
 
-#section-a {
+.section-a {
     background: #eaeaea;
     color: #333;
     padding: 0 1em 2em;
@@ -58,7 +58,7 @@ h2 {
     padding: 1em 0;
 }
 
-.section-a {
+.section-a-block {
     column-count: 2;
     column-gap: 20px;
 }
@@ -69,7 +69,7 @@ h2 {
     }
 }
 
-#section-b {
+.section-b {
     width: 100%;  
 }
 
@@ -120,13 +120,13 @@ h3 {
     padding: 17px 0;
 }
 
-#section-c {
+.section-c {
     background: #fff;
     color: #333;
     padding: 2em;
 }
 
-#section-d {
+.section-d {
     width: 100%;
     background: #333;
     display: inline-block;
